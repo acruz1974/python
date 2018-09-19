@@ -1,0 +1,2 @@
+# python
+Scripts from trainings
